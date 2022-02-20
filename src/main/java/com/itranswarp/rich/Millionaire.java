@@ -50,6 +50,6 @@ public final class Millionaire {
 		if (log.isDebugEnabled()) {
 			log.debug("How to become rich?");
 		}
-		return "Buy lottery.";
+		return "Buy lottery 买个臭傻逼的票,还不如好好工作.";
 	}
 }
